@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on laptop
+<!-- - 🔭 I’m currently working on laptop
 - 🌱 I’m currently learning many things
 - 👯 I’m looking to collaborate on something
 - 🤔 I’m looking for help with anything
@@ -18,13 +18,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: github?
 - 😄 Pronouns: are important
 - ⚡ Fun fact: first computer bug was literally a bug 🐛
-
+ -->
 
 ---
 
 <p align="center">
 <!--   <a target="_blank" href="http://www.codewars.com/users/damdafayton">Codewars</a> -  -->
-  <img src="https://www.codewars.com/users/damdafayton/badges/small"> - 
-  ![](./Linkedin-Logo.png)
-  <!-- <a target="_blank" href="https://linkedin.com/in/damdafayton">Linkedin</a> -->
+  <img src="https://www.codewars.com/users/damdafayton/badges/small"><br>
+  <a target="_blank" href="https://linkedin.com/in/damdafayton"><img height="50px" src="./Linkedin-Logo.png"></a>
 </p>
