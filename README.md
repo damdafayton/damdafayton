@@ -1,7 +1,7 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damdafayton&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damdafayton&theme=dark&layout=compact" />
-
+</p>
 
 <!-- --- -->
 
@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 <p align="center">
 <!--   <a target="_blank" href="http://www.codewars.com/users/damdafayton">Codewars</a> -  -->
-  <img src="https://www.codewars.com/users/damdafayton/badges/small"><br>
-  <a target="_blank" href="https://linkedin.com/in/damdafayton"><img height="50px" src="./Linkedin-Logo.png"></a>
+ <a target="_blank" href="https://linkedin.com/in/damdafayton"><img height="50px" src="./Linkedin-Logo.png"></a><br>
+ <a href="https://www.codewars.com/users/damdafayton"><img src="https://www.codewars.com/users/damdafayton/badges/small"></a>
 </p>
