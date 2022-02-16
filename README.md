@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <a target="_blank" href="http://www.codewars.com/users/damdafayton">Codewars</a> - 
+<!--   <a target="_blank" href="http://www.codewars.com/users/damdafayton">Codewars</a> -  -->
+  <img src="https://www.codewars.com/users/damdafayton/badges/small"> - 
   <a target="_blank" href="https://linkedin.com/in/damdafayton">Linkedin</a>
 </p>
