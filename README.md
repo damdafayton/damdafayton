@@ -6,7 +6,7 @@
 <section style="font-family: Arial;">
 <p>Languages: HMTL, CSS, SASS, JavaScript, Python, Ruby, Solidity</p>
 
-<p>Frameworks: Bootstrap, React, Node/Express</p>
+<p>Frameworks: Bootstrap, React, Node/Express, Brownie</p>
 
 <p>Databases: MongoDB, PostgreSQL</p>
 
