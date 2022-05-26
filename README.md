@@ -3,15 +3,16 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damdafayton&theme=dark&layout=compact" />
 </p> -->
 
-Languages: HMTL, CSS, SASS, JavaScript, Python, Ruby, Solidity
+<section style="font-family: Arial;">
+<p>Languages: HMTL, CSS, SASS, JavaScript, Python, Ruby, Solidity</p>
 
-Frameworks: Bootstrap, React, Node/Express
+<p>Frameworks: Bootstrap, React, Node/Express</p>
 
-Databases: MongoDB, PostgreSQL
+<p>Databases: MongoDB, PostgreSQL</p>
 
-Libraries: Git, Redux, WorkBox
-
-
+<p>Libraries: Git, Redux, WorkBox</p>
+</section>
+ 
 <!--
 **damdafayton/damdafayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
