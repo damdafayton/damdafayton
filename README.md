@@ -6,11 +6,13 @@
 <section style="font-family: Arial;">
 <p>Languages: HMTL, CSS, SASS, JavaScript, Python, Ruby, Solidity</p>
 
-<p>Frameworks: Bootstrap, React, Node/Express, Brownie</p>
+<p>Frameworks: Bootstrap, React, Jest, Node/Express, Brownie</p>
 
 <p>Databases: MongoDB, PostgreSQL</p>
 
 <p>Libraries: Git, Redux, WorkBox</p>
+ 
+<p>Tools: Webpack, Rspec, Pry</p>
 </section>
  
 <!--
