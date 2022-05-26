@@ -1,9 +1,7 @@
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damdafayton&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damdafayton&theme=dark&layout=compact" />
-</p>
 
-<!-- --- -->
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=damdafayton&theme=dark&layout=compact" />
+</p>
 
 <!--
 **damdafayton/damdafayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
