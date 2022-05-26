@@ -3,6 +3,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damdafayton&theme=dark&layout=compact" />
 </p> -->
 
+Motto: Don't Repeat Yourself
+
 <section style="font-family: Arial;">
 <p>Languages: HMTL, CSS, SASS, JavaScript, Python, Ruby, Solidity</p>
 
