@@ -7,7 +7,7 @@
 <section style="font-family: Arial;">
 <p>{ :Motto => "Don't Repeat Yourself" },</p>
 
-<p>{ :Languages => "HMTL, CSS, SASS, JavaScript, Python, Ruby, Solidity" },</p>
+<p>{ :Languages => "HMTL, CSS, SASS, JavaScript, TypeScript, Python, Ruby, Solidity" },</p>
 
 <p>{ :Frameworks => "Bootstrap, React, Jest, Node/Express, Brownie" },</p>
 
