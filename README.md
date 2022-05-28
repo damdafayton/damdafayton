@@ -3,9 +3,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damdafayton&theme=dark&layout=compact" />
 </p> -->
 
-Motto: Don't Repeat Yourself
+## skills
 
 <section style="font-family: Arial;">
+<p>Motto: Don't Repeat Yourself</p>
+
 <p>Languages: HMTL, CSS, SASS, JavaScript, Python, Ruby, Solidity</p>
 
 <p>Frameworks: Bootstrap, React, Jest, Node/Express, Brownie</p>
@@ -38,6 +40,7 @@ Here are some ideas to get you started:
 ![](./code_style2.png)
 
 ## end
+
 
 ---
 
