@@ -32,10 +32,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: first computer bug was literally a bug 🐛
  -->
 
-## How I Code
+## if doICodeClean?
 
 ![](./code_style1.png)
 ![](./code_style2.png)
+
+## end
 
 ---
 
