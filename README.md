@@ -3,8 +3,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damdafayton&theme=dark&layout=compact" />
 </p> -->
 
-## skills
+## puts skills
 
+### [
 <section style="font-family: Arial;">
 <p>Motto: Don't Repeat Yourself</p>
 
@@ -19,6 +20,7 @@
 <p>Tools: Webpack, Rspec, Pry</p>
 </section>
  
+### ]
 <!--
 **damdafayton/damdafayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
