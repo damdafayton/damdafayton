@@ -17,7 +17,7 @@
  
 <p>{:Tools: Webpack, Rspec, Pry"}</p>
 </section>
-## ]
+]
 <!--
 **damdafayton/damdafayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 
 ![](./code_style1.png)
 ![](./code_style2.png)
-
-## end
+end
 
 
 ---
