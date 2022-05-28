@@ -15,9 +15,8 @@
 
 <p>{ "Libraries" => "Git, Redux, WorkBox" },</p>
  
-<p>{ "Tools" => "Webpack, Rspec, Pry" }</p>
+<p>{ "Tools" => "Webpack, Rspec, Pry" }]</p>
 </section>
-]
 <!--
 **damdafayton/damdafayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
