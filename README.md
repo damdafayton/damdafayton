@@ -35,8 +35,11 @@ Here are some ideas to get you started:
 
 ## if doICodeClean?
 
-![](./code_style1.png)
+#### # Instead of this
 ![](./code_style2.png)
+
+#### # I prefer this
+![](./code_style1.png)
 end
 
 
