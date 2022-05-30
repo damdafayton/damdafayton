@@ -3,9 +3,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damdafayton&theme=dark&layout=compact" />
 </p> -->
 
-## puts skills [
+## puts skills= %w (
 <section style="font-family: Arial;">
-<p>{ "Motto" => "Don't Repeat Yourself" },</p>
+<p>"Motto => Don't Repeat Yourself",</p>
 
 <p>{ "Languages" => "HMTL, CSS, SASS, JavaScript, TypeScript, Python, Ruby, Solidity" },</p>
 
