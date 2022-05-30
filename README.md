@@ -7,15 +7,16 @@
 <section style="font-family: Arial;">
 <p>"Motto => Don't Repeat Yourself",</p>
 
-<p>{ "Languages" => "HMTL, CSS, SASS, JavaScript, TypeScript, Python, Ruby, Solidity" },</p>
+<p>"Languages => HMTL, CSS, SASS, JavaScript, TypeScript, Python, Ruby, Solidity",</p>
 
-<p>{ "Frameworks" => "Bootstrap, React, Jest, Node/Express, Brownie" },</p>
+<p>"Frameworks => Bootstrap, React, Jest, Node/Express, Brownie",</p>
 
-<p>{ "Databases" => "MongoDB, PostgreSQL" },</p>
+<p>"Databases => MongoDB, PostgreSQL",</p>
 
-<p>{ "Libraries" => "Git, Redux, WorkBox" },</p>
+<p>"Libraries => Git, Redux, WorkBox",</p>
  
-<p>{ "Tools" => "Webpack, Rspec, Pry" }]</p>
+<p>"Tools => Webpack, Rspec, Pry")\</p>
+[0].split(",")
 </section>
 <!--
 **damdafayton/damdafayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
