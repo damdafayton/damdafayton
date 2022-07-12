@@ -3,20 +3,18 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damdafayton&theme=dark&layout=compact" />
 </p> -->
 
-## puts skills = [
+## My stack
 <section style="font-family: Arial;">
-<p>"Motto: Don't Repeat Yourself",</p>
+<p>Web: HMTL, CSS, SASS, Bootstrap, Webpack, Git</p>
 
-<p>"Languages: HMTL, CSS, SASS, JavaScript, TypeScript, Python, Ruby, Solidity",</p>
+<p>JavaScript: React, Redux, Jest, Puppeteer, Supertest, Node, Express, TypeScript, WorkBox</p>
 
-<p>"Frameworks: Bootstrap, React, Jest, Node/Express, Brownie",</p>
+<p>Ruby: Rails, RSpec, Swagger, Pry</p>
 
-<p>"Databases: MongoDB, PostgreSQL",</p>
+<p>Blockchain: Solidity, Hardhat, Brownie/Python</p>
 
-<p>"Libraries: Git, Redux, WorkBox",</p>
+<p>Database: MongoDB, PostgreSQL</p>
  
-<p>"Tools: Webpack, Rspec, Pry"</p>
-<p>]</p>
 </section>
 <!--
 **damdafayton/damdafayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
