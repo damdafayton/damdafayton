@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: are important
 - ⚡ Fun fact: first computer bug was literally a bug 🐛
  -->
-
+<!--
 ## if doICodeClean?
 
 #### # Instead of this
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 #### # I prefer this
 ![](./code_style1.png)
 end
-
+ -->
 
 ---
 
