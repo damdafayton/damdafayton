@@ -5,7 +5,7 @@
 
 ## My stack
 <section style="font-family: Arial;">
-<p>Web: HMTL, CSS, SASS, Bootstrap, Webpack, Git</p>
+<p>Web: HMTL, CSS, SASS, PHP7, Bootstrap, Webpack, Git</p>
 
 <p>JavaScript: React, Redux, Jest, Puppeteer, Supertest, Node, Express, TypeScript, WorkBox</p>
 
@@ -13,7 +13,7 @@
 
 <p>Blockchain: Solidity, Hardhat, Brownie/Python</p>
 
-<p>Database: MongoDB, PostgreSQL</p>
+<p>Database: MongoDB, PostgreSQL, MySQL</p>
  
 </section>
 <!--
