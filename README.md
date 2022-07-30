@@ -5,16 +5,12 @@
 
 ## My stack
 <section style="font-family: Arial;">
-<p>Web: HMTL, CSS, SASS, PHP7, Bootstrap, Webpack, Git</p>
-
-<p>JavaScript: React, Redux, Jest, Puppeteer, Supertest, Node, Express, TypeScript, WorkBox</p>
-
-<p>Ruby: Rails, RSpec, Swagger, Pry</p>
-
-<p>Blockchain: Solidity, Hardhat, Brownie/Python</p>
-
+<p>Front-end: HMTL, CSS, SASS, Bootstrap, MaterialUI, React, Redux-Toolkit-RTK Query</p>
+<p>Back-end: Node/Express, Ruby/Rails, Python/Django, PHP7, WorkBox</p>
 <p>Database: MongoDB, PostgreSQL, MySQL</p>
- 
+<p>Testing: Chai, Jest, Puppeteer, Supertest, RSpec, RSwag, Pry</p>
+<p>Blockchain: Solidity, Hardhat, Brownie</p>
+<p>Tools: Git, Postman, Docker</p>
 </section>
 <!--
 **damdafayton/damdafayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
