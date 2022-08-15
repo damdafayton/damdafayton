@@ -22,9 +22,10 @@
 <p>"Tools: Git, Postman, Docker"</p>
 <p>]</p>
 
+</section>
+
 ![]('./language.png)
 
-</section>
 <!--
 **damdafayton/damdafayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -55,6 +56,7 @@ end -->
 ---
 
 <p align="center">
+
 <!--   <a target="_blank" href="http://www.codewars.com/users/damdafayton">Codewars</a> -  -->
 
 <a target="_blank" href="https://linkedin.com/in/damdafayton"><img height="50px" src="./Linkedin-Logo.png"></a><br>
