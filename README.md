@@ -1,28 +1,36 @@
-
 <!-- <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damdafayton&theme=dark&layout=compact" />
 </p> -->
 
 ## puts skills = [
+
 <section style="font-family: Arial;">
 <p>"Motto: Don't Repeat Yourself",</p>
 
-<p>"Languages: HMTL, CSS, SASS, JavaScript, TypeScript, Python, Ruby, Solidity",</p>
+<p>"Front-end: HMTL, CSS, SASS, Bootstrap, MaterialUI, React, Redux-Toolkit-RTK Query",</p>
 
-<p>"Frameworks: Bootstrap, React, Jest, Node/Express, Brownie",</p>
+<p>"Back-end: Node/Express, Ruby/Rails, Python/Django, PHP7, WorkBox",</p>
 
-<p>"Databases: MongoDB, PostgreSQL",</p>
+<p>"Frameworks: Bootstrap, React, Node/Express, Brownie",</p>
 
-<p>"Libraries: Git, Redux, WorkBox",</p>
+<p>"Database: MongoDB, PostgreSQL, MySQL, Prisma",</p>
+
+<p>"Testing: Chai, Jest, Puppeteer, Supertest, RSpec, RSwag, Pry",</p>
+
+<p>"Blockchain: Solidity, Hardhat, Brownie",</p>
  
-<p>"Tools: Webpack, Rspec, Pry"</p>
+<p>"Tools: Git, Postman, Docker"</p>
 <p>]</p>
+
+![]('./language.png)
+
 </section>
 <!--
 **damdafayton/damdafayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+
 <!-- - 🔭 I’m currently working on laptop
 - 🌱 I’m currently learning many things
 - 👯 I’m looking to collaborate on something
@@ -36,12 +44,13 @@ Here are some ideas to get you started:
 ## if doICodeClean?
 
 #### # Instead of this
+
 ![](./code_style2.png)
 
 #### # I prefer this
+
 ![](./code_style1.png)
 end
-
 
 ---
 
