@@ -25,7 +25,7 @@
 </section>
 
 <!-- <p align="center"> -->
- ![]('./language.png)
+ ![](./language.png)
 <!-- </p> -->
 
 <!--
