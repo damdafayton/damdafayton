@@ -60,10 +60,7 @@ end -->
 ---
 
 <p align="center">
-
 <!--   <a target="_blank" href="http://www.codewars.com/users/damdafayton">Codewars</a> -  -->
-
 <a target="_blank" href="https://linkedin.com/in/damdafayton"><img height="50px" src="./Linkedin-Logo.png"></a><br>
 <a href="https://www.codewars.com/users/damdafayton"><img src="https://www.codewars.com/users/damdafayton/badges/small"></a>
-
 </p>
