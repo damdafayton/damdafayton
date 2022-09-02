@@ -59,9 +59,9 @@ end -->
 
 <p align="center">
 <!--   <a target="_blank" href="http://www.codewars.com/users/damdafayton">Codewars</a> -  -->
-<div style='display: flex; gap:2rem;'>
-  <a target="_blank" href="https://linkedin.com/in/damdafayton"><img height="50px" src="./Linkedin-Logo.png"></a>
-  <a target="_blank" href="https://stackoverflow.com/users/15741905/damdafayton"><img height="50px" src="./so.png"></a>
-</div><br>
+
+<a style='margin-right:1rem;' target="_blank" href="https://linkedin.com/in/damdafayton"><img height="50px" src="./Linkedin-Logo.png"></a>
+<a target="_blank" href="https://stackoverflow.com/users/15741905/damdafayton"><img height="50px" src="./so.png"></a><br>
 <a href="https://www.codewars.com/users/damdafayton"><img src="https://www.codewars.com/users/damdafayton/badges/small"></a>
+
 </p>
