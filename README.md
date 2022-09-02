@@ -59,6 +59,7 @@ end -->
 
 <p align="center">
 <!--   <a target="_blank" href="http://www.codewars.com/users/damdafayton">Codewars</a> -  -->
+<br>
 <a target="_blank" href="https://stackoverflow.com/users/15741905/damdafayton"><img height="50px" src="./so.png"></a>&nbsp;&nbsp;&nbsp;
 <a target="_blank" href="https://linkedin.com/in/damdafayton"><img height="50px" src="./Linkedin-Logo.png"></a>
 <br>
