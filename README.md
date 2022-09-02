@@ -25,10 +25,10 @@
 </section>
 
 <a target="_blank" href="https://stackoverflow.com/users/15741905/damdafayton">
-![]('./so3.png)
+![](./so3.png)
 </a>
 
-![]('./language.png)
+![](./language.png)
 
 <!--
 **damdafayton/damdafayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
