@@ -24,9 +24,8 @@
 
 </section>
 
-<a target="_blank" href="https://stackoverflow.com/users/15741905/damdafayton">
-![](./so3.png)
-</a>
+![<a target="_blank" href="https://stackoverflow.com/users/15741905/damdafayton">
+</a>](./so3.png)
 
 ![](./language.png)
 
