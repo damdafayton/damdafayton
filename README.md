@@ -6,7 +6,7 @@
 
 <p>Front-end: HMTL, CSS, SASS, Bootstrap, MaterialUI, React, Redux-Toolkit-RTK Query</p>
 
-<p>Back-end: Node/Express, Ruby/Rails, Python/Django, PHP7, WorkBox</p>
+<p>Back-end: Node/Express/Nest, Ruby/Rails, Python/Django, PHP7, WorkBox</p>
 
 <p>Frameworks: Bootstrap, React, Node/Express, Brownie</p>
 
