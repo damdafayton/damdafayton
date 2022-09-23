@@ -6,8 +6,10 @@
 
 <p>Front-end: HTML, CSS, SASS, Bootstrap, MaterialUI, React, Redux-RTK Query</p>
 
-<p>Back-end: Node/Express/Nest, Ruby/Rails, Python/Django, PHP7, WorkBox</p>
+<p>Back-end: Express/Nest, Rails, Django, PHP7, WorkBox</p>
 
+<p>Language: Javascript, TypeScript, Python, Ruby</p>
+ 
 <p>Database: MongoDB, PostgreSQL, MySQL, Prisma</p>
 
 <p>Testing: Chai, Jest, Puppeteer, Supertest, RSpec, RSwag, Pry</p>
