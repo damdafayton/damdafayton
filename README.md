@@ -4,17 +4,15 @@
 
 <section style="font-family: Arial;">
 
-<p>Front-end: HMTL, CSS, SASS, Bootstrap, MaterialUI, React, Redux-Toolkit-RTK Query</p>
+<p>Front-end: HTML, CSS, SASS, Bootstrap, MaterialUI, React, Redux-RTK Query</p>
 
 <p>Back-end: Node/Express/Nest, Ruby/Rails, Python/Django, PHP7, WorkBox</p>
-
-<p>Frameworks: Bootstrap, React, Node/Express, Brownie</p>
 
 <p>Database: MongoDB, PostgreSQL, MySQL, Prisma</p>
 
 <p>Testing: Chai, Jest, Puppeteer, Supertest, RSpec, RSwag, Pry</p>
 
-<p>Blockchain: Solidity, Hardhat, Brownie</p>
+<p>Blockchain: Solidity, Hardhat, Truffle, Brownie</p>
  
 <p>Tools: Git, Postman, Docker</p>
 
