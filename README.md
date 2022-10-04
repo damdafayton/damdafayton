@@ -32,6 +32,12 @@
 
 <a href="https://github.com/damdafayton/algorithms">Algorithms / Python / Javascript </a>
 
+<a href="https://github.com/damdafayton/ruby-school-library">School Library CLI / Ruby </a>
+
+<a href="https://github.com/damdafayton/ruby-morse-code-decoder">Morse code decoder / Ruby </a>
+
+<a href="https://gist.github.com/damdafayton">Gists</a>
+
 ---
 
 ![](./so3.png)
