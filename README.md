@@ -30,6 +30,8 @@
 
 <a href="https://github.com/damdafayton/rtfToPdf">RTF to PDF Converter / Python </a>
 
+<a href="https://github.com/damdafayton/algorithms">Algorithms / Python / Javascript </a>
+
 ---
 
 ![](./so3.png)
