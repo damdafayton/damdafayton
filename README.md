@@ -22,6 +22,16 @@
 
 ---
 
+<a href="https://github.com/damdafayton/url-crawler">URL Crawler / Python </a>
+
+<a href="https://github.com/damdafayton/yahoo_parser">Financial data parser from Yahoo / Python </a>
+
+<a href="https://github.com/damdafayton/eng-tur-dictionary">English to Turkish CLI Dictionary / Python </a>
+
+<a href="https://github.com/damdafayton/rtfToPdf">RTF to PDF Converter / Python </a>
+
+---
+
 ![](./so3.png)
 
 ---
