@@ -24,7 +24,7 @@
 
 <a href="https://github.com/damdafayton/url-crawler">URL Crawler / Python </a>
 
-<a href="https://github.com/damdafayton/yahoo_parser">Financial data parser from Yahoo / Python </a>
+<a href="https://github.com/damdafayton/yahoo_parser">Yahoo financial data parser / Python </a>
 
 <a href="https://github.com/damdafayton/eng-tur-dictionary">English to Turkish CLI Dictionary / Python </a>
 
