@@ -38,9 +38,6 @@
 
 <a href="https://gist.github.com/damdafayton">Gists</a>
 
----
-
-![](./language.png)
 
 <!--
 **damdafayton/damdafayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
