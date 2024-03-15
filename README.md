@@ -16,7 +16,7 @@
 
 <p>Blockchain: Solidity, Hardhat, Truffle, Brownie</p>
  
-<p>Tools: Git, AWS, Docker, Postman, Spotlight</p>
+<p>Tools: Git, Firebase, AWS, Docker, Postman, Spotlight</p>
 
 </section>
 
