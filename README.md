@@ -36,6 +36,10 @@
 
 <a href="https://github.com/damdafayton/ruby-morse-code-decoder">Morse code decoder / Ruby </a>
 
+<a href="https://github.com/damdafayton/postgresql-queries">postgresql queries</a>
+
+<a href="https://github.com/damdafayton/some-simple-apps">Some simple apps</a>
+
 <a href="https://gist.github.com/damdafayton">Gists</a>
 
 
